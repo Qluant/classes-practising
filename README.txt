@@ -1,0 +1,2 @@
+This is my homework that I worked on in class. The point was to create two-dimensional shapes in a hierarchical order. I hope I managed to complete it successfully.
+Note: I'm just learning programming, so I don't recommend you use this code to learn. I think there are many mistakes in the code. Good luck!
